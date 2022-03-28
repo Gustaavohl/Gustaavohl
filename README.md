@@ -5,6 +5,8 @@ Olá! sou o Gustavo, e seja bem vindo ao meu perfil!  👋
 - Typescript!
 - Html!
 - Css!
+
+SEGUE O DISCORD:Gstavo Henrique#8345
 <!--
 
 -->
