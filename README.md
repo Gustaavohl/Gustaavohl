@@ -6,7 +6,7 @@ Olá! sou o Gustavo, e seja bem vindo ao meu perfil!  👋
 - Html!
 - Css!
 
-SEGUE O DISCORD:Gstavo Henrique#8345
+Segue o Discord:Gstavo Henrique#8345
 <!--
 
 -->
